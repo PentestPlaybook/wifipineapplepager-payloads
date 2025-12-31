@@ -1,7 +1,7 @@
 # Pine AP Configuration
 
 ## Description
-Configuration payloads for PineAP on the WiFi Pineapple Pager, including filter management, Evil WPA setup, and wireless client mode.
+Configuration payloads for PineAP on the WiFi Pineapple Pager, including filter management, wireless client mode, and Evil WPA setup.
 
 ## Author
 PentestPlaybook
